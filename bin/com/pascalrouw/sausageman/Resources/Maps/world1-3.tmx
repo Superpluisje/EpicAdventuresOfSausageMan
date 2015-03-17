@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="27" height="16" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" source="mainTileset.tsx"/>
+ <layer name="background1" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAvOMiLig/xjto1mO0aBaMAG0BPg7RMh6N2jQJcAAD59iNx
+  </data>
+ </layer>
+ <layer name="decoration1" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhC2Q4BtoFo2CgAABOKAAl
+  </data>
+ </layer>
+ <layer name="surface" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJz7wcTA0MOAinsZaAM8aGTuqF2oIIwFO7udmTS7NgPTBisDJmYjzRii7PXCgb1JtAsZIPudGLuyWCmwDIe9tLYLGfTjwOupYBfIS+TEPbEgGCnMPBkoi/tgFkw+uhg5dlEaBqTYRWkYoOtnwoLZcKil1C58+ZjadgEA/n8dqA==
+  </data>
+ </layer>
+ <layer name="traps" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwwVUcg60C0bBKMAP0NPoaJodBZQAANvpAYc=
+  </data>
+ </layer>
+</map>

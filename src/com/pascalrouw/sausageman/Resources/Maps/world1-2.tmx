@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="27" height="16" tilewidth="48" tileheight="48">
+ <properties>
+  <property name="background" value="background06.png"/>
+ </properties>
+ <tileset firstgid="1" source="mainTileset.tsx"/>
+ <layer name="background03" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhc4Acd7bJhZGD4Tic7QXbBMK3tRLYLhunpR1tGOljGgBqe9LLLhg5+o5c9o2AUDHUAABLxC04=
+  </data>
+ </layer>
+ <layer name="background02" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYICAHCDORcO0AsPVLhgYtQsTaACxJp3sgunTIMJsStMGIb3k2qXOgOl+WtilgUMNJXbh0odLjly7NJAwteyCmUeOv4h1AzZ5etiFHF7UiC9cgBZpAxcAAICHPV0=
+  </data>
+ </layer>
+ <layer name="background01" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2D4ggO8DAwHoZhcfYd4scvhEh+1a+jZRYqd9LYLBOhhFzIg1i6Y28i1h1S7YPbBAACY5Ehn
+  </data>
+ </layer>
+ <layer name="decoration2" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAMnORiYDgFxKe5KDSICMDHzcDAD8QC3LjV7OSkjl3BQDtCgDgUj13UAjOAdswE4llY7LrOTp6ZMhzYxe8C7bgHxPfp4K+hDuJxhCEIvMAjRw5Ygse8IiqlaRh4SWW3D1bwDxpuHmTmoeEAJgxzvwMAIgsPrw==
+  </data>
+ </layer>
+ <layer name="decoration1" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIwlcZ2dg+Mc50K4YBaNgFIwCygEAISsB5g==
+  </data>
+ </layer>
+ <layer name="surface" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAN3IDYA488NQG97drMRJkZjEDMCsVMSJgZi11elFkFNwOE3ZEwenhtATrgB5n+YmGA+AVkBjF2/WSChCEsDECYDYeZ6OJ9QNwPxT+h9vUg4V409SD/g/zVj6RvAg4z0cXRzSEUF9RKh7BwpIddP4mwq5sBM1zJAcT4i1oAFqdDAeBK67QwF1taD2Yh346ZLBB7YPnem0y3wfiEgCcZdsH0eKPxAavtImw=
+  </data>
+ </layer>
+ <layer name="traps" width="27" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjFRQyTnQLhiagJhwk+CmvTuwgZEUpwDbzAGq
+  </data>
+ </layer>
+</map>
